@@ -1,0 +1,1 @@
+Hello I’m Ghala Mohammed. I study Cyber Security, and I’m really interested in Machine Learning, especially how it can be used to improve security and detect cyber threats. I enjoy learning how these two fields work together and hope to build skills that help solve real-world problems.
